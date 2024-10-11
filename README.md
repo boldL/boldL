@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boldL
-- 👀 new to web development
-- 🌱 I’m currently learning full stack engineering
+- 👀 fairly new to web development
+- 🌱 I’m a Front-End engineer. (React JS)
 - 💞️ I’m looking to collaborate on every platform I can
 - 📫 How to reach me ... louismagongo@gmail.com
 - ⚡ Fun fact: A master of supply chain
